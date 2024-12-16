@@ -1,0 +1,1154 @@
+[
+  {
+    "character": "Ebenholz",
+    "rank": "S"
+  },
+  {
+    "character": "Carnelian",
+    "rank": "S"
+  },
+  {
+    "character": "Lin",
+    "rank": "S"
+  },
+  {
+    "character": "Dusk",
+    "rank": "S"
+  },
+  {
+    "character": "Ceobe",
+    "rank": "S"
+  },
+  {
+    "character": "Eyjafjalla",
+    "rank": "S"
+  },
+  {
+    "character": "Ifrit",
+    "rank": "S"
+  },
+  {
+    "character": "Mostima",
+    "rank": "S"
+  },
+  {
+    "character": "Goldenglow",
+    "rank": "S"
+  },
+  {
+    "character": "Rockrock",
+    "rank": "S"
+  },
+  {
+    "character": "Aroma",
+    "rank": "A"
+  },
+  {
+    "character": "Warmy",
+    "rank": "A"
+  },
+  {
+    "character": "Kjera",
+    "rank": "A"
+  },
+  {
+    "character": "Amiya",
+    "rank": "A"
+  },
+  {
+    "character": "Absinthe",
+    "rank": "A"
+  },
+  {
+    "character": "Lava the Purgatory",
+    "rank": "A"
+  },
+  {
+    "character": "Beeswax",
+    "rank": "A"
+  },
+  {
+    "character": "Click",
+    "rank": "A"
+  },
+  {
+    "character": "Gitano",
+    "rank": "A"
+  },
+  {
+    "character": "Iris",
+    "rank": "A"
+  },
+  {
+    "character": "Leonhardt",
+    "rank": "A"
+  },
+  {
+    "character": "Mint",
+    "rank": "A"
+  },
+  {
+    "character": "Passenger",
+    "rank": "A"
+  },
+  {
+    "character": "Skyfire",
+    "rank": "A"
+  },
+  {
+    "character": "Harmonie",
+    "rank": "B"
+  },
+  {
+    "character": "Qanipalaat",
+    "rank": "B"
+  },
+  {
+    "character": "Corroserum",
+    "rank": "B"
+  },
+  {
+    "character": "Greyy",
+    "rank": "B"
+  },
+  {
+    "character": "Haze",
+    "rank": "B"
+  },
+  {
+    "character": "Leizi",
+    "rank": "B"
+  },
+  {
+    "character": "12F",
+    "rank": "C"
+  },
+  {
+    "character": "Tomimi",
+    "rank": "C"
+  },
+  {
+    "character": "Durin",
+    "rank": "C"
+  },
+  {
+    "character": "Lava",
+    "rank": "C"
+  },
+  {
+    "character": "Steward",
+    "rank": "C"
+  },
+  {
+    "character": "Nightmare",
+    "rank": "C"
+  },
+  {
+    "character": "Zuo Le",
+    "rank": "S"
+  },
+  {
+    "character": "Executor the Ex Foedere",
+    "rank": "S"
+  },
+  {
+    "character": "Mlynar",
+    "rank": "S"
+  },
+  {
+    "character": "Gavial the Invincible",
+    "rank": "S"
+  },
+  {
+    "character": "Irene",
+    "rank": "S"
+  },
+  {
+    "character": "Nearl the Radiant Knight",
+    "rank": "S"
+  },
+  {
+    "character": "La Pluma",
+    "rank": "S"
+  },
+  {
+    "character": "Blaze",
+    "rank": "S"
+  },
+  {
+    "character": "Ch’en",
+    "rank": "S"
+  },
+  {
+    "character": "Hellagur",
+    "rank": "S"
+  },
+  {
+    "character": "Lappland",
+    "rank": "S"
+  },
+  {
+    "character": "Mountain",
+    "rank": "S"
+  },
+  {
+    "character": "SilverAsh",
+    "rank": "S"
+  },
+  {
+    "character": "Skadi",
+    "rank": "S"
+  },
+  {
+    "character": "Specter",
+    "rank": "S"
+  },
+  {
+    "character": "Surtr",
+    "rank": "S"
+  },
+  {
+    "character": "Thorns",
+    "rank": "S"
+  },
+  {
+    "character": "Qiubai",
+    "rank": "S"
+  },
+  {
+    "character": "Rathalos S Noir",
+    "rank": "S"
+  },
+  {
+    "character": "Fuze",
+    "rank": "A"
+  },
+  {
+    "character": "Humus",
+    "rank": "A"
+  },
+  {
+    "character": "Highmore",
+    "rank": "A"
+  },
+  {
+    "character": "Dagda",
+    "rank": "A"
+  },
+  {
+    "character": "Luo Xiaohei",
+    "rank": "A"
+  },
+  {
+    "character": "Tequila",
+    "rank": "A"
+  },
+  {
+    "character": "Pallas",
+    "rank": "A"
+  },
+  {
+    "character": "Akafuyu",
+    "rank": "A"
+  },
+  {
+    "character": "Amiya (Guard)",
+    "rank": "A"
+  },
+  {
+    "character": "Astesia",
+    "rank": "A"
+  },
+  {
+    "character": "Ayerscarpe",
+    "rank": "A"
+  },
+  {
+    "character": "`k",
+    "rank": "A"
+  },
+  {
+    "character": "Broca",
+    "rank": "A"
+  },
+  {
+    "character": "Cutter",
+    "rank": "A"
+  },
+  {
+    "character": "Flamebringer",
+    "rank": "A"
+  },
+  {
+    "character": "Flint",
+    "rank": "A"
+  },
+  {
+    "character": "Franka",
+    "rank": "A"
+  },
+  {
+    "character": "Indra",
+    "rank": "A"
+  },
+  {
+    "character": "Savage",
+    "rank": "A"
+  },
+  {
+    "character": "Tachanka",
+    "rank": "A"
+  },
+  {
+    "character": "Chongyue Utage",
+    "rank": "A"
+  },
+  {
+    "character": "Whislash",
+    "rank": "A"
+  },
+  {
+    "character": "Wind Chimes",
+    "rank": "A"
+  },
+  {
+    "character": "Doc",
+    "rank": "B"
+  },
+  {
+    "character": "Bryophyta",
+    "rank": "B"
+  },
+  {
+    "character": "Arene",
+    "rank": "B"
+  },
+  {
+    "character": "Beehunter",
+    "rank": "B"
+  },
+  {
+    "character": "Conviction",
+    "rank": "B"
+  },
+  {
+    "character": "Estelle",
+    "rank": "B"
+  },
+  {
+    "character": "Jackie",
+    "rank": "B"
+  },
+  {
+    "character": "Matoimaru",
+    "rank": "B"
+  },
+  {
+    "character": "Melantha",
+    "rank": "B"
+  },
+  {
+    "character": "Mousse",
+    "rank": "B"
+  },
+  {
+    "character": "Sideroca",
+    "rank": "B"
+  },
+  {
+    "character": "Quartz",
+    "rank": "C"
+  },
+  {
+    "character": "Castle-3",
+    "rank": "C"
+  },
+  {
+    "character": "Dobermann",
+    "rank": "C"
+  },
+  {
+    "character": "Frostleaf",
+    "rank": "C"
+  },
+  {
+    "character": "Midnight",
+    "rank": "C"
+  },
+  {
+    "character": "Popukar",
+    "rank": "C"
+  },
+  {
+    "character": "Swire",
+    "rank": "C"
+  },
+  {
+    "character": "Shu",
+    "rank": "S"
+  },
+  {
+    "character": "Penance",
+    "rank": "S"
+  },
+  {
+    "character": "Horn",
+    "rank": "S"
+  },
+  {
+    "character": "Blemishine",
+    "rank": "S"
+  },
+  {
+    "character": "Eunectes",
+    "rank": "S"
+  },
+  {
+    "character": "Hoshiguma",
+    "rank": "S"
+  },
+  {
+    "character": "Liskarm",
+    "rank": "S"
+  },
+  {
+    "character": "Mudrock",
+    "rank": "S"
+  },
+  {
+    "character": "Nian",
+    "rank": "S"
+  },
+  {
+    "character": "Saria",
+    "rank": "S"
+  },
+  {
+    "character": "Cement",
+    "rank": "A"
+  },
+  {
+    "character": "Czerny",
+    "rank": "A"
+  },
+  {
+    "character": "Shalem",
+    "rank": "A"
+  },
+  {
+    "character": "Ashlock",
+    "rank": "A"
+  },
+  {
+    "character": "Asbestos",
+    "rank": "A"
+  },
+  {
+    "character": "Bison",
+    "rank": "A"
+  },
+  {
+    "character": "Blitz",
+    "rank": "A"
+  },
+  {
+    "character": "Croissant. Cuora",
+    "rank": "A"
+  },
+  {
+    "character": "Heavyrain",
+    "rank": "A"
+  },
+  {
+    "character": "Nearl",
+    "rank": "A"
+  },
+  {
+    "character": "Kazemaru",
+    "rank": "A"
+  },
+  {
+    "character": "Firewhistle",
+    "rank": "A"
+  },
+  {
+    "character": "Aurora",
+    "rank": "B"
+  },
+  {
+    "character": "Bubble",
+    "rank": "B"
+  },
+  {
+    "character": "Dur-Nar",
+    "rank": "B"
+  },
+  {
+    "character": "Gummy",
+    "rank": "B"
+  },
+  {
+    "character": "Mattherhorn",
+    "rank": "B"
+  },
+  {
+    "character": "Hung",
+    "rank": "B"
+  },
+  {
+    "character": "Vulcan",
+    "rank": "B"
+  },
+  {
+    "character": "Beagle",
+    "rank": "C"
+  },
+  {
+    "character": "Cardigan",
+    "rank": "C"
+  },
+  {
+    "character": "Spot",
+    "rank": "C"
+  },
+  {
+    "character": "Noir Corne",
+    "rank": "C"
+  },
+  {
+    "character": "Harold",
+    "rank": "S"
+  },
+  {
+    "character": "Reed the Flame Shadow",
+    "rank": "S"
+  },
+  {
+    "character": "Hibiscus the Purifier",
+    "rank": "S"
+  },
+  {
+    "character": "Kal'tsit",
+    "rank": "S"
+  },
+  {
+    "character": "Nightingale",
+    "rank": "S"
+  },
+  {
+    "character": "Ptilopsis",
+    "rank": "S"
+  },
+  {
+    "character": "Shining",
+    "rank": "S"
+  },
+  {
+    "character": "Warfarin",
+    "rank": "S"
+  },
+  {
+    "character": "Lumen",
+    "rank": "S"
+  },
+  {
+    "character": "Paprika",
+    "rank": "S"
+  },
+  {
+    "character": "Mulberry",
+    "rank": "A"
+  },
+  {
+    "character": "Breeze",
+    "rank": "A"
+  },
+  {
+    "character": "Perfumer",
+    "rank": "A"
+  },
+  {
+    "character": "Silence",
+    "rank": "A"
+  },
+  {
+    "character": "Whisperain",
+    "rank": "A"
+  },
+  {
+    "character": "Tuye",
+    "rank": "A"
+  },
+  {
+    "character": "Folinic",
+    "rank": "B"
+  },
+  {
+    "character": "Ceylon",
+    "rank": "B"
+  },
+  {
+    "character": "Gavial",
+    "rank": "B"
+  },
+  {
+    "character": "Myrrh",
+    "rank": "B"
+  },
+  {
+    "character": "Sussurro",
+    "rank": "B"
+  },
+  {
+    "character": "Purestream",
+    "rank": "B"
+  },
+  {
+    "character": "Chestnut",
+    "rank": "B"
+  },
+  {
+    "character": "Ansel",
+    "rank": "C"
+  },
+  {
+    "character": "Hibiscus",
+    "rank": "C"
+  },
+  {
+    "character": "Lancet-2",
+    "rank": "C"
+  },
+  {
+    "character": "Ascalon",
+    "rank": "S"
+  },
+  {
+    "character": "Ela",
+    "rank": "S"
+  },
+  {
+    "character": "Texas the Omertosa",
+    "rank": "S"
+  },
+  {
+    "character": "Dorothy",
+    "rank": "S"
+  },
+  {
+    "character": "Specter the Unchained",
+    "rank": "S"
+  },
+  {
+    "character": "Aak",
+    "rank": "S"
+  },
+  {
+    "character": "Phantom",
+    "rank": "S"
+  },
+  {
+    "character": "Projekt Red",
+    "rank": "S"
+  },
+  {
+    "character": "Weedy",
+    "rank": "S"
+  },
+  {
+    "character": "Gladiia",
+    "rank": "S"
+  },
+  {
+    "character": "Lee",
+    "rank": "S"
+  },
+  {
+    "character": "Iana",
+    "rank": "A"
+  },
+  {
+    "character": "Almond",
+    "rank": "A"
+  },
+  {
+    "character": "Spuria",
+    "rank": "A"
+  },
+  {
+    "character": "Mizuki",
+    "rank": "A"
+  },
+  {
+    "character": "Cliffheart",
+    "rank": "A"
+  },
+  {
+    "character": "Ethan",
+    "rank": "A"
+  },
+  {
+    "character": "FEater",
+    "rank": "A"
+  },
+  {
+    "character": "Gravel",
+    "rank": "A"
+  },
+  {
+    "character": "Jaye",
+    "rank": "A"
+  },
+  {
+    "character": "Manticore",
+    "rank": "A"
+  },
+  {
+    "character": "Mr. Nothing",
+    "rank": "A"
+  },
+  {
+    "character": "Kafka",
+    "rank": "A"
+  },
+  {
+    "character": "Robin",
+    "rank": "A"
+  },
+  {
+    "character": "Frost",
+    "rank": "A"
+  },
+  {
+    "character": "Enforcer",
+    "rank": "A"
+  },
+  {
+    "character": "Kirara",
+    "rank": "B"
+  },
+  {
+    "character": "Rope",
+    "rank": "B"
+  },
+  {
+    "character": "Snowsant",
+    "rank": "B"
+  },
+  {
+    "character": "Shaw",
+    "rank": "B"
+  },
+  {
+    "character": "Waai Fu",
+    "rank": "B"
+  },
+  {
+    "character": "THRM-EX",
+    "rank": "C"
+  },
+  {
+    "character": "Ray",
+    "rank": "S"
+  },
+  {
+    "character": "Pozemka",
+    "rank": "S"
+  },
+  {
+    "character": "Ch'en the Holungday",
+    "rank": "S"
+  },
+  {
+    "character": "Fiammetta",
+    "rank": "S"
+  },
+  {
+    "character": "Archetto",
+    "rank": "S"
+  },
+  {
+    "character": "Ash",
+    "rank": "S"
+  },
+  {
+    "character": "Exusiai",
+    "rank": "S"
+  },
+  {
+    "character": "Poca (Rosa)",
+    "rank": "S"
+  },
+  {
+    "character": "Rosmontis",
+    "rank": "S"
+  },
+  {
+    "character": "Schwarz",
+    "rank": "S"
+  },
+  {
+    "character": "W",
+    "rank": "S"
+  },
+  {
+    "character": "Insider",
+    "rank": "A"
+  },
+  {
+    "character": "Totter",
+    "rank": "A"
+  },
+  {
+    "character": "Andreana",
+    "rank": "A"
+  },
+  {
+    "character": "Blue Poison",
+    "rank": "A"
+  },
+  {
+    "character": "Firewatch",
+    "rank": "A"
+  },
+  {
+    "character": "GreyThroat",
+    "rank": "A"
+  },
+  {
+    "character": "Platinum",
+    "rank": "A"
+  },
+  {
+    "character": "Provence",
+    "rank": "A"
+  },
+  {
+    "character": "Meteorite",
+    "rank": "A"
+  },
+  {
+    "character": "Toddifons",
+    "rank": "A"
+  },
+  {
+    "character": "Pinecone",
+    "rank": "A"
+  },
+  {
+    "character": "Kirin R Yato",
+    "rank": "A"
+  },
+  {
+    "character": "Lunacub",
+    "rank": "B"
+  },
+  {
+    "character": "Fartooth",
+    "rank": "B"
+  },
+  {
+    "character": "Aciddrop",
+    "rank": "B"
+  },
+  {
+    "character": "Aosta",
+    "rank": "B"
+  },
+  {
+    "character": "April",
+    "rank": "B"
+  },
+  {
+    "character": "Executor",
+    "rank": "B"
+  },
+  {
+    "character": "May",
+    "rank": "B"
+  },
+  {
+    "character": "Sesa",
+    "rank": "B"
+  },
+  {
+    "character": "Shirayuki",
+    "rank": "B"
+  },
+  {
+    "character": "Vermeil",
+    "rank": "B"
+  },
+  {
+    "character": "Ambriel",
+    "rank": "C"
+  },
+  {
+    "character": "Catapult",
+    "rank": "C"
+  },
+  {
+    "character": "Jessica",
+    "rank": "C"
+  },
+  {
+    "character": "Kroos",
+    "rank": "C"
+  },
+  {
+    "character": "Meteor",
+    "rank": "C"
+  },
+  {
+    "character": "Adnachiel",
+    "rank": "C"
+  },
+  {
+    "character": "Rangers",
+    "rank": "C"
+  },
+  {
+    "character": "Greyy the Lightningbear",
+    "rank": "C"
+  },
+  {
+    "character": "Stainless",
+    "rank": "S"
+  },
+  {
+    "character": "Ling",
+    "rank": "S"
+  },
+  {
+    "character": "Valarqvin",
+    "rank": "S"
+  },
+  {
+    "character": "Gnosis",
+    "rank": "S"
+  },
+  {
+    "character": "Angelina",
+    "rank": "S"
+  },
+  {
+    "character": "Magallan",
+    "rank": "S"
+  },
+  {
+    "character": "Scene",
+    "rank": "S"
+  },
+  {
+    "character": "Coldshot",
+    "rank": "S"
+  },
+  {
+    "character": "Shamare",
+    "rank": "S"
+  },
+  {
+    "character": "Suzuran",
+    "rank": "S"
+  },
+  {
+    "character": "Skadi the Corrupting Heeart",
+    "rank": "S"
+  },
+  {
+    "character": "Grain Buds",
+    "rank": "A"
+  },
+  {
+    "character": "Proviso",
+    "rank": "A"
+  },
+  {
+    "character": "Windflit",
+    "rank": "A"
+  },
+  {
+    "character": "Quercus",
+    "rank": "A"
+  },
+  {
+    "character": "Roberta",
+    "rank": "A"
+  },
+  {
+    "character": "Glaucus",
+    "rank": "A"
+  },
+  {
+    "character": "Istina",
+    "rank": "A"
+  },
+  {
+    "character": "Mayer",
+    "rank": "A"
+  },
+  {
+    "character": "Pramanix",
+    "rank": "A"
+  },
+  {
+    "character": "Sora",
+    "rank": "A"
+  },
+  {
+    "character": "Heidi",
+    "rank": "A"
+  },
+  {
+    "character": "Deepcolor",
+    "rank": "B"
+  },
+  {
+    "character": "Podenco",
+    "rank": "B"
+  },
+  {
+    "character": "Earthspirit",
+    "rank": "C"
+  },
+  {
+    "character": "Orchid",
+    "rank": "C"
+  },
+  {
+    "character": "Tsukinogi",
+    "rank": "C"
+  },
+  {
+    "character": "Nine-Colored Deer",
+    "rank": "C"
+  },
+  {
+    "character": "Degenbrecher",
+    "rank": "SS"
+  },
+  {
+    "character": "Ines",
+    "rank": "SS"
+  },
+  {
+    "character": "Jessica the Liberated",
+    "rank": "S"
+  },
+  {
+    "character": "Cantabile",
+    "rank": "S"
+  },
+  {
+    "character": "Saileach",
+    "rank": "S"
+  },
+  {
+    "character": "Bagpipe",
+    "rank": "S"
+  },
+  {
+    "character": "Elysium",
+    "rank": "S"
+  },
+  {
+    "character": "Myrtle",
+    "rank": "S"
+  },
+  {
+    "character": "Poncirus",
+    "rank": "S"
+  },
+  {
+    "character": "Siege",
+    "rank": "S"
+  },
+  {
+    "character": "Saga",
+    "rank": "S"
+  },
+  {
+    "character": "Lutomada",
+    "rank": "A"
+  },
+  {
+    "character": "Odda",
+    "rank": "A"
+  },
+  {
+    "character": "Leto",
+    "rank": "A"
+  },
+  {
+    "character": "Puzzle",
+    "rank": "A"
+  },
+  {
+    "character": "Flametail",
+    "rank": "A"
+  },
+  {
+    "character": "Reed",
+    "rank": "A"
+  },
+  {
+    "character": "Texas",
+    "rank": "A"
+  },
+  {
+    "character": "Vigna",
+    "rank": "A"
+  },
+  {
+    "character": "Zima",
+    "rank": "A"
+  },
+  {
+    "character": "Blacknight",
+    "rank": "A"
+  },
+  {
+    "character": "Wanqing",
+    "rank": "B"
+  },
+  {
+    "character": "Beanstalk",
+    "rank": "B"
+  },
+  {
+    "character": "Chiave",
+    "rank": "B"
+  },
+  {
+    "character": "Courier",
+    "rank": "B"
+  },
+  {
+    "character": "Grani",
+    "rank": "B"
+  },
+  {
+    "character": "Scavenger",
+    "rank": "B"
+  },
+  {
+    "character": "Kestrel",
+    "rank": "B"
+  },
+  {
+    "character": "Fang",
+    "rank": "C"
+  },
+  {
+    "character": "Plume",
+    "rank": "C"
+  },
+  {
+    "character": "Vanilla",
+    "rank": "C"
+  },
+  {
+    "character": "Yato",
+    "rank": "C"
+  }
+]

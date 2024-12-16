@@ -1,0 +1,470 @@
+[
+  {
+    "character": "イネス",
+    "rank": "SS"
+  },
+  {
+    "character": "テンニンカ",
+    "rank": "S"
+  },
+  {
+    "character": "バグパイプ",
+    "rank": "S"
+  },
+  {
+    "character": "エリジウム",
+    "rank": "S"
+  },
+  {
+    "character": "サイラッハ",
+    "rank": "S"
+  },
+  {
+    "character": "ミュルジス",
+    "rank": "S"
+  },
+  {
+    "character": "サガ",
+    "rank": "A"
+  },
+  {
+    "character": "フレイムテイル",
+    "rank": "A"
+  },
+  {
+    "character": "ブラックナイト",
+    "rank": "A"
+  },
+  {
+    "character": "ヴィジェル",
+    "rank": "A"
+  },
+  {
+    "character": "ワンチィン",
+    "rank": "A"
+  },
+  {
+    "character": "シージ",
+    "rank": "B"
+  },
+  {
+    "character": "カンタービレ",
+    "rank": "B"
+  },
+  {
+    "character": "ムリナール",
+    "rank": "SS"
+  },
+  {
+    "character": "デーゲンブレヒャー",
+    "rank": "SS"
+  },
+  {
+    "character": "シルバーアッシュ",
+    "rank": "S"
+  },
+  {
+    "character": "スルト",
+    "rank": "S"
+  },
+  {
+    "character": "マウンテン",
+    "rank": "S"
+  },
+  {
+    "character": "耀騎士ニアール",
+    "rank": "S"
+  },
+  {
+    "character": "チョンユエ",
+    "rank": "S"
+  },
+  {
+    "character": "ラップランド",
+    "rank": "A"
+  },
+  {
+    "character": "スペクター",
+    "rank": "A"
+  },
+  {
+    "character": "ソーンズ",
+    "rank": "A"
+  },
+  {
+    "character": "アーミヤ(前衛)",
+    "rank": "A"
+  },
+  {
+    "character": "アイリーニ",
+    "rank": "A"
+  },
+  {
+    "character": "百錬ガヴィル",
+    "rank": "A"
+  },
+  {
+    "character": "チューバイ",
+    "rank": "A"
+  },
+  {
+    "character": "聖約イグゼキュター",
+    "rank": "A"
+  },
+  {
+    "character": "ズオ・ラウ",
+    "rank": "A"
+  },
+  {
+    "character": "ウルピアヌス",
+    "rank": "A"
+  },
+  {
+    "character": "スカジ",
+    "rank": "B"
+  },
+  {
+    "character": "チェン",
+    "rank": "B"
+  },
+  {
+    "character": "スワイヤー",
+    "rank": "B"
+  },
+  {
+    "character": "ヘラグ",
+    "rank": "B"
+  },
+  {
+    "character": "ブレイズ",
+    "rank": "B"
+  },
+  {
+    "character": "パラス",
+    "rank": "B"
+  },
+  {
+    "character": "ヘドリー",
+    "rank": "B"
+  },
+  {
+    "character": "ヴィヴィアナ",
+    "rank": "B"
+  },
+  {
+    "character": "レッシング",
+    "rank": "B"
+  },
+  {
+    "character": "サリア",
+    "rank": "SS"
+  },
+  {
+    "character": "ホルン",
+    "rank": "SS"
+  },
+  {
+    "character": "シュウ",
+    "rank": "SS"
+  },
+  {
+    "character": "ブレミシャイン",
+    "rank": "S"
+  },
+  {
+    "character": "マドロック",
+    "rank": "S"
+  },
+  {
+    "character": "ペナンス",
+    "rank": "S"
+  },
+  {
+    "character": "滌火ジェシカ",
+    "rank": "S"
+  },
+  {
+    "character": "ニェン",
+    "rank": "A"
+  },
+  {
+    "character": "ホシグマ",
+    "rank": "A"
+  },
+  {
+    "character": "リスカム",
+    "rank": "B"
+  },
+  {
+    "character": "ユーネクテス",
+    "rank": "B"
+  },
+  {
+    "character": "ウィシャデル",
+    "rank": "SS"
+  },
+  {
+    "character": "遊龍チェン",
+    "rank": "S"
+  },
+  {
+    "character": "パゼオンカ",
+    "rank": "S"
+  },
+  {
+    "character": "ティフォン",
+    "rank": "S"
+  },
+  {
+    "character": "レイ",
+    "rank": "S"
+  },
+  {
+    "character": "シュヴァルツ",
+    "rank": "A"
+  },
+  {
+    "character": "アルケット",
+    "rank": "A"
+  },
+  {
+    "character": "フィアメッタ",
+    "rank": "A"
+  },
+  {
+    "character": "ファイヤーウォッチ",
+    "rank": "B"
+  },
+  {
+    "character": "エクシア",
+    "rank": "B"
+  },
+  {
+    "character": "ロサ",
+    "rank": "B"
+  },
+  {
+    "character": "W",
+    "rank": "B"
+  },
+  {
+    "character": "ロスモンティス",
+    "rank": "B"
+  },
+  {
+    "character": "Ash",
+    "rank": "B"
+  },
+  {
+    "character": "ファートゥース",
+    "rank": "B"
+  },
+  {
+    "character": "エイヤフィヤトラ",
+    "rank": "SS"
+  },
+  {
+    "character": "ゴールデングロー",
+    "rank": "SS"
+  },
+  {
+    "character": "ロゴス",
+    "rank": "SS"
+  },
+  {
+    "character": "イフリータ",
+    "rank": "S"
+  },
+  {
+    "character": "ケオベ",
+    "rank": "S"
+  },
+  {
+    "character": "エーベンホルツ",
+    "rank": "S"
+  },
+  {
+    "character": "モスティマ",
+    "rank": "A"
+  },
+  {
+    "character": "アーミヤ",
+    "rank": "A"
+  },
+  {
+    "character": "パッセンジャー",
+    "rank": "A"
+  },
+  {
+    "character": "リン",
+    "rank": "A"
+  },
+  {
+    "character": "シー",
+    "rank": "B"
+  },
+  {
+    "character": "カーネリアン",
+    "rank": "B"
+  },
+  {
+    "character": "ホルハイヤ",
+    "rank": "B"
+  },
+  {
+    "character": "純燼エイヤフィヤトラ",
+    "rank": "SS"
+  },
+  {
+    "character": "ナイチンゲール",
+    "rank": "S"
+  },
+  {
+    "character": "ケルシー",
+    "rank": "S"
+  },
+  {
+    "character": "焔影リード",
+    "rank": "S"
+  },
+  {
+    "character": "フィリオプシス",
+    "rank": "A"
+  },
+  {
+    "character": "ルーメン",
+    "rank": "A"
+  },
+  {
+    "character": "アーミヤ(医療)",
+    "rank": "A"
+  },
+  {
+    "character": "ワルファリン",
+    "rank": "B"
+  },
+  {
+    "character": "パフューマー",
+    "rank": "B"
+  },
+  {
+    "character": "シャイニング",
+    "rank": "B"
+  },
+  {
+    "character": "サイレンス",
+    "rank": "B"
+  },
+  {
+    "character": "ウィスパーレイン",
+    "rank": "B"
+  },
+  {
+    "character": "マルベリー",
+    "rank": "B"
+  },
+  {
+    "character": "ハニーベリー",
+    "rank": "B"
+  },
+  {
+    "character": "濁心スカジ",
+    "rank": "SS"
+  },
+  {
+    "character": "ヴィルトゥオーサ",
+    "rank": "SS"
+  },
+  {
+    "character": "スズラン",
+    "rank": "S"
+  },
+  {
+    "character": "ノーシス",
+    "rank": "S"
+  },
+  {
+    "character": "リィン",
+    "rank": "S"
+  },
+  {
+    "character": "ステインレス",
+    "rank": "S"
+  },
+  {
+    "character": "シヴィライト・エテルナ",
+    "rank": "S"
+  },
+  {
+    "character": "アンジェリーナ",
+    "rank": "A"
+  },
+  {
+    "character": "プラマニクス",
+    "rank": "A"
+  },
+  {
+    "character": "シャマレ",
+    "rank": "A"
+  },
+  {
+    "character": "マゼラン",
+    "rank": "B"
+  },
+  {
+    "character": "淬羽サイレンス",
+    "rank": "B"
+  },
+  {
+    "character": "血掟テキサス",
+    "rank": "SS"
+  },
+  {
+    "character": "アスカロン",
+    "rank": "SS"
+  },
+  {
+    "character": "グレイディーア",
+    "rank": "S"
+  },
+  {
+    "character": "帰溟スペクター",
+    "rank": "S"
+  },
+  {
+    "character": "ドロシー",
+    "rank": "S"
+  },
+  {
+    "character": "キリンRヤトウ",
+    "rank": "S"
+  },
+  {
+    "character": "Ela",
+    "rank": "S"
+  },
+  {
+    "character": "ファントム",
+    "rank": "A"
+  },
+  {
+    "character": "ウィーディ",
+    "rank": "A"
+  },
+  {
+    "character": "ミヅキ",
+    "rank": "A"
+  },
+  {
+    "character": "ア",
+    "rank": "B"
+  },
+  {
+    "character": "リー",
+    "rank": "B"
+  },
+  {
+    "character": "琳琅スワイヤー",
+    "rank": "B"
+  }
+]

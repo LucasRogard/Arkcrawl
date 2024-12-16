@@ -1,0 +1,39 @@
+# Arkcrawl
+
+## Objectif
+
+Faire une synthèse des tiers lists des personnages du jeu Arknight.
+
+## Stack
+
+- Playwright pour le navigateur headless
+- Vue + Tailwind pour le rendu
+
+## Liste des urls à crawl
+
+- #1 https://www.pockettactics.com/arknights/tier-list
+- #2 https://www.pocketgamer.com/arknights/tier-list/?page=1
+- #3 https://www.dexerto.com/gaming/arknights-tier-list-best-characters-operators-class-1807334/#h-arknights-operator-tier-list
+- #4 https://ak.gamepress.gg/tier-list/arknights-operator-tier-list
+
+Bonus (site JP) :
+
+- https://gameline.jp/arknights/c-ranking/
+
+Si possible afficher une miniature des personnages (https://tiermaker.com/create/arknights-playable-characters-1-19-2021-775253)
+
+## Affichage
+
+Faire un tableau :
+
+| Classe | (img) Nom | tier (moyenne) | détail tier site 1 | détail tier site 2 | détail tier site 3 | détail tier site 4 |
+
+Normaliser les tiers sous le format EX > S > A > B > C.
+
+Faire un tri colonne asc/desc sur toutes les colonnes.
+Faire un filtre input texte recherche sur le nom.
+
+## Possibles problèmes
+
+- Les sites n'ont pas exactement le même nommage des persos
+- Les sites n'ont pas tous les persos inventoriés
